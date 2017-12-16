@@ -1,3 +1,4 @@
+#Happy Holidays ^_^
 logo = """
 
               |
@@ -32,6 +33,7 @@ console.set_font("Menlo",10)
 console.set_color(1,0,0)
 print logo
 time.sleep(2)
+console.set_font("Arial Rounded MT Bold",40")
 print word
 time.sleep(4)
 console.clear()
