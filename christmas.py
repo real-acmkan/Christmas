@@ -52,6 +52,7 @@ banner = """
        .-' ~~ /  \ ~~ `-.		
        `.___.'    `.___.'				
 """
+console.set_font("Menlo",10)                 
 time.sleep(2)
 print banner
 time.sleep(3)
