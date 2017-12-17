@@ -1,4 +1,4 @@
 # Christmas
-Python Christmas script.
+Pythonista Christmas script.
 
-Intended to be run using Python 2.7
+Intended to be run using Python 2.7 
